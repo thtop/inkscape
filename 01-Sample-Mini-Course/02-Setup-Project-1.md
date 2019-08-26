@@ -1,0 +1,17 @@
+# Setup Project 1
+- Page
+  - Display units: `px`
+  - Custom size
+    - Units: `px`
+    - Witch: `800`
+    - Height: `800`
+  - Border
+    - Uncheck: `Show border shadow`
+- Grids
+  - Rectangular grid
+    - Spacing X: `12.5`
+    - Spacing Y: `12.5`
+    - Major grid line every: `4`
+- Snap
+  - snap to grids
+    - Select: `Always snap`
