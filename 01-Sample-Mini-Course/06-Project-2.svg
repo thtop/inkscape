@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-167.55545"
-     inkscape:cy="1311.2623"
+     inkscape:cx="771.01598"
+     inkscape:cy="1478.4051"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -211,5 +211,20 @@
            y="-90.047615"
            style="stroke-width:0.26458332">Z</tspan></text>
     </g>
+    <path
+       style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 252.04947,-86.645832 V -192.47916 l 91.65437,-52.91667 v 105.83333 z"
+       id="path917"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#00ff00;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 320.79024,-205.70832 -45.82718,26.45833 v 52.91666 l 45.82718,-26.45833 z"
+       id="path919"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 229.13614,-179.24999 -91.65435,52.91666 v 105.833334 l 91.65435,-52.916666 z m -22.91384,39.6875 v 52.916662 l -45.82718,26.458333 v -52.916665 z"
+       id="path921"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
